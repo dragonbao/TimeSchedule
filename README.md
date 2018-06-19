@@ -2,7 +2,7 @@
 ## DragonBao's time schedule (2018-6-19~2018-7-19)
 ### (Refuse Delay and Cherish life)
 #### Morning
-- waking Up~cleaning  07:00 ~ 07:20
+- waking Up~cleaning&nbsp;&nbsp;07:00 ~ 07:20
 - Egsh Sakg           07:20 ~ 07:50
 - breakfast           08:00 ~ 08:15
 - working             08:30 ~ 12:00
