@@ -3,7 +3,7 @@
 ### (Refuse Delay and Cherish life)
 #### Morning
 - waking Up~cleaning &nbsp;&nbsp;07:00 ~ 07:20
-- Egsh Sakg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07:20 ~ 07:50
+- Egsh Sakg &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 07:20 ~ 07:50
 - breakfast           08:00 ~ 08:15
 - working             08:30 ~ 12:00
 - lunch               12:00 ~ 12:30
