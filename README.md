@@ -4,9 +4,9 @@
 #### Morning
 - waking　Up~clean　　　　　　　07:00 ~ 07:20
 - Egsh Sakg　　　　　　　　　　　07:20 ~ 07:50
-- breakfast　　　　　　　　　　　08:00 ~ 08:15
-- work　　　　　　　　　　　　　　08:30 ~ 12:00
-- lunch tim　　　　　　　　　　　12:00 ~ 12:30
+- breakfast　　　　　　　　　　　　08:00 ~ 08:15
+- work　　　　　　　　　　　　　08:30 ~ 12:00
+- lunch tim　　　　　　　　　　　　12:00 ~ 12:30
 - Egsh Sakg　　　　　　　　　　　12:40 ~ 13:10
 - rest　　　　　　　　　　　　　　13:10 ~ 13:40
 - work　　　　　　　　　　　　　　14:00 ~ 18:00
