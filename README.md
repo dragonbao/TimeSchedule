@@ -32,4 +32,3 @@
 
 5. man should has it own style
 
-　　桃李春风一杯酒 江湖夜雨十年灯。
